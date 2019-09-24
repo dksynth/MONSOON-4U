@@ -1,3 +1,8 @@
+require 'csv'
+
+csv =<<CSV
+a,""b""
+CSV
 
 "Name"""Value"""RefDes"""Quantity"
 "C-USC0603"""18p"""C1, C15, C17, C21, C38, C39"""6"
